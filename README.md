@@ -1,2 +1,4 @@
 # comp367Lab2
 Learning Jenkins with GitHub
+
+Updated the README.md #1
